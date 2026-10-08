@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# YOLO training
+runs/
+*.pt
+
+# Dataset
+data/images/
+data/images 01/
+data/plate_dataset/
+
+# Generated outputs
+outputs/
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store

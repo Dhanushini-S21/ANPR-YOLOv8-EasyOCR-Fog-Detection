@@ -1,0 +1,9 @@
+Supplied datasets inspected:
+- video_images ZIP: 192 image files
+- google_images ZIP: 4 image files
+- total image files: 196
+- no YOLO label (.txt) files were found in the supplied ZIPs
+- no fog class labels were found
+The project therefore provides a runnable analytical fog detector and an OpenCV
+plate fallback, plus the correct annotation/training workflow for a custom
+YOLOv8 license-plate detector.
